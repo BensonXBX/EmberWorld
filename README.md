@@ -1,5 +1,3 @@
-<p align="center"><img src="media/logo.svg" alt="EmberWorld · 余烬世界" width="360"></p>
-
 # EmberWorld · 余烬世界
 
 **把电路接成战术大脑，让队友与你一起闯关。**
