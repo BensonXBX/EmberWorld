@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-10-30",
+  "scope": "selected integration modules; not full game",
+  "modules": [
+    {
+      "file": "src/circuits/circuit.mjs",
+      "source_module": "decision/circuit.mjs",
+      "sha256": "c60f33c213a7034161ae856e07b44fc2b0df366f470946188375614fedfc640a"
+    },
+    {
+      "file": "src/circuits/runtime.mjs",
+      "source_module": "decision/runtime.mjs",
+      "sha256": "535e8a2fc9496ae997828633ef7ef813e94da67e9edd0e2cbe7b543d7af663df"
+    },
+    {
+      "file": "src/circuits/world-adapter.mjs",
+      "source_module": "decision/world-adapter.mjs",
+      "sha256": "bef3ed196acfb0010cacb0a3f700baf8a9960a0d5136170373d0914981546cfa"
+    },
+    {
+      "file": "src/circuits/world-brain.mjs",
+      "source_module": "decision/world-brain.mjs",
+      "sha256": "8ebca0c2e3b551408b171c94544ff792360fbafaa6f0d8ed7d1a117e25e40a6c"
+    },
+    {
+      "file": "src/circuits/world-demo-model.mjs",
+      "source_module": "decision/world-demo-model.mjs",
+      "sha256": "110b684a0ca7a31f2628d18fc901dc936a0ad44905732203077605a3b84f66e7"
+    },
+    {
+      "file": "src/circuits/world-interface.mjs",
+      "source_module": "decision/world-interface.mjs",
+      "sha256": "9afbe7433d5592b147596a589b82f774de267095a6163c591ba0a02ada36c781"
+    },
+    {
+      "file": "src/circuits/world-logic.mjs",
+      "source_module": "decision/world-logic.mjs",
+      "sha256": "0bf29351056b8c672be10ff1437334729192e165d1177911233e71e402b5506d"
+    },
+    {
+      "file": "src/circuits/world-target-brain.mjs",
+      "source_module": "decision/world-target-brain.mjs",
+      "sha256": "062304d0c454b7ea99b6715fc8806c094b7ba14858eae58eed0d7d1e158b9f5f"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "source": "07 public game analytics",
+  "window_start_ms": 1793193000000,
+  "window_end_ms": 1793367744564,
+  "timezone": "Asia/Shanghai",
+  "summary": {
+    "expeditions": 2139,
+    "wallets": 61,
+    "full_starts": 2139,
+    "completed_expeditions": 764,
+    "recorded_simulation_hours": 88.93,
+    "recorded_kills": 61518,
+    "detail_lost": 0,
+    "dropped_events": 12021,
+    "partial_starts": 0
+  },
+  "daily": [
+    {
+      "day": "2026-10-28",
+      "expeditions": 109,
+      "wallets": 18,
+      "completed_expeditions": 12
+    },
+    {
+      "day": "2026-10-29",
+      "expeditions": 1011,
+      "wallets": 47,
+      "completed_expeditions": 264
+    },
+    {
+      "day": "2026-10-30",
+      "expeditions": 1019,
+      "wallets": 28,
+      "completed_expeditions": 488
+    }
+  ],
+  "statuses": [
+    {
+      "status": "defeated",
+      "count": 1116
+    },
+    {
+      "status": "won",
+      "count": 764
+    },
+    {
+      "status": "interrupted",
+      "count": 157
+    },
+    {
+      "status": "returned",
+      "count": 98
+    },
+    {
+      "status": "active",
+      "count": 4
+    }
+  ],
+  "leader": [
+    {
+      "leader": 0,
+      "expeditions": 681
+    },
+    {
+      "leader": 1,
+      "expeditions": 87
+    },
+    {
+      "leader": 2,
+      "expeditions": 1
+    },
+    {
+      "leader": 3,
+      "expeditions": 126
+    },
+    {
+      "leader": 4,
+      "expeditions": 32
+    },
+    {
+      "leader": 5,
+      "expeditions": 163
+    },
+    {
+      "leader": 6,
+      "expeditions": 133
+    },
+    {
+      "leader": 7,
+      "expeditions": 916
+    }
+  ],
+  "maps": [
+    {
+      "map": 1,
+      "expeditions": 1216,
+      "completed_expeditions": 623
+    },
+    {
+      "map": 6,
+      "expeditions": 512,
+      "completed_expeditions": 135
+    },
+    {
+      "map": 7,
+      "expeditions": 405,
+      "completed_expeditions": 5
+    },
+    {
+      "map": 8,
+      "expeditions": 6,
+      "completed_expeditions": 1
+    }
+  ],
+  "latest_record_update_ms": 1793367739353,
+  "method": "Public expedition summaries only; exclude sandbox, research and addresses on operator/test lists at query time. Wallets are not unique humans. Partial records are excluded from completed count. No raw player data exported."
+}
