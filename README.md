@@ -2,7 +2,7 @@
 
 **把电路接成战术大脑，让队友与你一起闯关。**
 
-[English](README.en.md) · [进入游戏](https://emberworld.net/) · [170 秒实机 Demo](media/gameplay-170s.mp4) · [官推](https://x.com/EmberWorldX) · [社区](https://t.me/EmberWorldXLayer)
+[English](README.en.md) · [进入游戏](https://emberworld.net/) · [165 秒实机 Demo](media/gameplay-165s-1080p.mp4) · [官推](https://x.com/EmberWorldX) · [社区](https://t.me/EmberWorldXLayer)
 
 ![余烬世界品牌海报](media/hero.png)
 *品牌概念海报；下方视频与界面图为实际游戏画面。*
@@ -15,9 +15,9 @@ EmberWorld 是一款围绕 **X Layer / TapeOut 电路生态**构建的像素动�
 
 ## 先看真实游戏
 
-[![点击观看完整玩法与四章实机 Demo](media/demo-full-poster.jpg)](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4)
+[![点击观看完整玩法与四章实机 Demo](media/demo-full-poster.jpg)](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-165s-1080p.mp4)
 
-**[▶ 播放／下载约 2 分 50 秒完整 Demo](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4)** — 小队编成、装备对比与穿戴、职业选择、技能学习装配、专属与通用天赋、电路战术、世界地图，接四章四人混战与首领交锋。完整画面、统一游戏配乐、段落标题动画与转场。配置操作录自 10 月 30 日独立测试环境，战斗沿用 10 月 28 日原速实机，两段使用不同测试存档。网页不能直接播放时可下载 MP4；不是 CG，也不代表当前公开服已开放全部演示内容。见[媒体与时间轴](docs/MEDIA.md)。
+**[▶ 播放／下载约 2 分 45 秒完整 Demo](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-165s-1080p.mp4)** — 小队编成、装备对比与穿戴、职业选择、技能学习装配、专属与通用天赋、电路战术、世界地图，接四章四人混战与首领交锋。1080P 高清版：功能窗口特写放大，战斗保留完整实机界面；统一游戏配乐、段落标题动画与 12 处滑移／叠化转场。配置操作录自 10 月 30 日独立测试环境，战斗沿用 10 月 28 日原速实机，两段使用不同测试存档。网页不能直接播放时可下载 MP4；不是 CG，也不代表当前公开服已开放全部演示内容。见[媒体与时间轴](docs/MEDIA.md)。
 
 ## 新一轮做了什么
 
@@ -107,7 +107,7 @@ Node.js 22+，无需安装依赖、钱包或 RPC。**15 项测试通过，覆盖
 | 可复用现有处理器 | 使用现有官方参考电路容器，附地址、Circuit ID、区块和验证材料；没有把它声称为自部署处理器 |
 | 目标用户／真实需求／收入模式 | 面向协作刷宝与电路策略玩家；Pass 玩法授权及后续内容商业化方案，分清已实现与规划 |
 | 已有项目需实质新增 | 单列活动期间的世界版开发，与上一期擂台区分；不把旧成果全部计为本期新增 |
-| 可访问应用与演示 | 游戏入口、测试版状态说明、170 秒实机、独立可运行的电路测试 |
+| 可访问应用与演示 | 游戏入口、测试版状态说明、165 秒实机、独立可运行的电路测试 |
 
 完整证据索引见[参赛要求与材料](docs/SUBMISSION.md)。当前早鸟试玩有 Pass／容量／进度限制，不要求评委为了审阅而购买资产；视频与代码可直接评审，如需完整实机权限请联系团队安排测试入口。
 

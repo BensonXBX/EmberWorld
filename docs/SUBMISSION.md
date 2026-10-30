@@ -11,7 +11,7 @@
 | 用户为何持续使用？ | 构筑、刷宝、战术调整、首领挑战与可分享的电路策略 | [玩法与产品](GAMEPLAY-AND-MODEL.md) |
 | 商业潜力是什么？ | Pass 玩法授权、后续外观／内容／活动服务；不把尚未开放机制当收入 | [商业模式与边界](GAMEPLAY-AND-MODEL.md) |
 | 有实际用户反馈吗？ | 截止 10 月 30 日的公开服匿名汇总 | [统计](TRACTION.md)及可下载 JSON |
-| 能否验证而非只看概念？ | 170 秒完整玩法实机＋离线门级测试＋测试版截图 | [Demo](../media/gameplay-170s.mp4)、`npm test`、`npm run demo` |
+| 能否验证而非只看概念？ | 165 秒完整玩法实机＋离线门级测试＋测试版截图 | [Demo](../media/gameplay-165s-1080p.mp4)、`npm test`、`npm run demo` |
 
 ## 建议表单内容
 
@@ -23,9 +23,9 @@
 
 **Website:** https://emberworld.net/
 
-**Demo video:** https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4
+**Demo video:** https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-165s-1080p.mp4
 
-Demo 实际 169.5 秒（约 2 分 50 秒），小于表单 3 分钟上限，包含备战成长操作与四章战斗；如果表单审阅环境不允许直接播放 GitHub MP4，可下载观看，或由团队提供相同文件的平台视频链接。不可改填超过 3 分钟的长合集。
+Demo 实际 164.7 秒（约 2 分 45 秒），小于表单 3 分钟上限，包含备战成长操作与四章战斗；如果表单审阅环境不允许直接播放 GitHub MP4，可下载观看，或由团队提供相同文件的平台视频链接。不可改填超过 3 分钟的长合集。
 
 **Elevator pitch（中文）**
 
