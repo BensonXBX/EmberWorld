@@ -4,7 +4,7 @@
 
 **Build a tactical brain from circuits. Bring your squad into the world.**
 
-[中文](README.md) · [Play](https://emberworld.net/) · [104-second gameplay](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-104s.mp4) · [X](https://x.com/EmberWorldX) · [Community](https://t.me/EmberWorldXLayer)
+[中文](README.md) · [Play](https://emberworld.net/) · [170-second gameplay](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4) · [X](https://x.com/EmberWorldX) · [Community](https://t.me/EmberWorldXLayer)
 
 ![EmberWorld concept artwork](media/hero.png)
 *Concept artwork. Actual gameplay and UI are shown below.*
@@ -17,9 +17,9 @@ This is the next stage after EMBER Arena: from a side-view fighting arena into e
 
 ## Watch the game
 
-[![Watch 104 seconds of real gameplay](media/demo-poster.jpg)](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-104s.mp4)
+[![Watch 170 seconds of real gameplay](media/demo-full-poster.jpg)](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4)
 
-Four chapters, four-character battles and boss encounters, with full HUD, original speed and game music. Recorded on an isolated October 28 test build, compressed to 720p for review. Newer October 30 UI is shown separately. This is not CG, real-time production-player footage or a claim of frame-by-frame on-chain gameplay. [Media provenance](docs/MEDIA.md).
+**[Watch / download the full 2:50 demo](https://github.com/BensonXBX/EmberWorld/raw/refs/heads/main/media/gameplay-170s.mp4)** — party setup, equipment comparison and equipping, profession choice, skill learning/loadouts, character and shared talents, circuit tactics, world selection, then four chapters of combat and boss encounters. Full game screen, continuous game music, animated section titles and transitions. Configuration operations were captured in an isolated October 30 test environment; original-speed combat comes from the October 28 test recording. These are separate test saves, not a single continuous run or production-player footage. Public access remains narrower than the demonstrated test content. [Media provenance and timeline](docs/MEDIA.md).
 
 ## What is new in this competition period?
 
@@ -98,7 +98,7 @@ The current public early preview has Pass, capacity and progression limits: norm
 - **Clear division:** gate-level tactical decisions; conventional UI, geometry, combat and persistence.
 - **Substantial new development:** World-specific integration, squad systems, networking and preparation UI are separated from the earlier Arena.
 - **User value/business potential:** progression, tactics and access/content services; no claimed sustainable revenue yet.
-- **Reviewable delivery:** live early preview, 104-second demo, real test UI, aggregate usage evidence and runnable circuit tests.
+- **Reviewable delivery:** live early preview, 170-second demo, real test UI, aggregate usage evidence and runnable circuit tests.
 
 [Requirements and submission text](docs/SUBMISSION.md).
 
